@@ -107,7 +107,3 @@ vercel
 - `npm run build` - Build for production
 - `npm test` - Run tests
 - `npm run deploy` - Deploy to GitHub Pages
-
-## License
-
-MIT
